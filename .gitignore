@@ -1,0 +1,9 @@
+target/
+dados/
+exportacoes/
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
