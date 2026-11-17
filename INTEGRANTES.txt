@@ -1,0 +1,7 @@
+Global Solution 2/2026 - OOP - Territory Predictive Insights (Turma de Fevereiro - 2CCR)
+
+Integrantes:
+- Kauã da Silva Lazarim - RM 564625
+- Guilherme Williams - RM 565319
+
+GitHub: https://github.com/Kaua-Lazarim/GS-Java
