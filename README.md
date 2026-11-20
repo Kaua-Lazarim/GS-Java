@@ -162,3 +162,8 @@ Como somos uma dupla, juntamos as três frentes sugeridas no enunciado em duas.
 | **Guilherme** | Domínio (`ComponenteTerritorial`, `PontoMonitoramento`, `Sensor` e os três sensores, `DadosTerritorio`, `Limiares`, `Medicao`, `Alerta`), exceções customizadas, estratégias de previsão (`EstrategiaPrevisao`, `PrevisaoMediaMovel`, `PrevisaoComparacao`), `FabricaPrevisao` (Factory), opções 2 e 4 do menu, testes de domínio e da fábrica. |
 | **Kauã** | Persistência (`ConexaoBanco`, `MedicaoDAO`, `AlertaDAO`, `schema.sql`), `ConfiguracaoSistema` (Singleton), `ServicoMonitoramento` (leitura, validação e alertas), exportação CSV, opções 1, 3 e 5 do menu, `ServicoMonitoramentoTest` com Mockito, configuração do Maven. |
 | **Os dois** | Escolha do recorte, definição dos limiares, revisão do código um do outro, README e reflexão crítica. |
+
+
+## Divisão de tarefas
+
+Foi utilizado IA para formatação e escrita das informações do readme e demais pontos de formatação.
